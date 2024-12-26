@@ -3,4 +3,4 @@ a executer i made
 
 i made this in about 2 hours? ig
 
-used salad api
+used zenith api
