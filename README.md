@@ -1,6 +1,4 @@
-# Testees
+# Antjector
 a executer i made
-
-i made this in about 2 hours? ig
-
-used zenith api
+Just run the exe after downloading and extracting
+Updated like everything
